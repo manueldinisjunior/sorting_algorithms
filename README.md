@@ -4,16 +4,12 @@ Foundations > Low-level programming & Algorithm > Data structures and Algorithms
 ---
 
 ### Project author
-Alexandre Gautier
-
+Manuel Dinis Júnior
 ### Assignment dates
-06-11-2020 to 06-18-2020
-
+Apr 19, 2023 5:00 AM - Apr 25, 2023 5:00 AM
+ 
 ### Description
 Fourth team project. Introduction to popular sorting algorithms, and using big O notation to indicate time and space complexity.
-
-### Note
-This project was created in a repository separate from [`holbertonschool-low_level_programming`](https://github.com/allelomorph/holbertonschool-low_level_programming), where the other projects from this section are located.
 
 ### Requirements
 * You are not allowed to use global variables
@@ -255,5 +251,5 @@ Compiled: `gcc -Wall -Wextra -Werror -pedantic 1000-main.c 1000-sort_deck.c -o d
 
 ---
 
-## Student team
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
+## github profile
+* **Manuel Dinis Júnior** - [allelomorph](github.com/manuel)
